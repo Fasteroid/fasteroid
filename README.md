@@ -3,7 +3,7 @@
 Here you'll find basically anything and everything I've made and/or are planning to make.<br>
 My code isn't always the neatest, so brace yourself if you decide to look at an older project!<br>
 
-### ⚙ Proud user of...
+### 💡 Proud user of...
 <p>
 
   <a href="https://github.com/wiremod/wire/wiki/Expression-2">
@@ -51,7 +51,12 @@ My code isn't always the neatest, so brace yourself if you decide to look at an 
  - Video Games!
  - And More!
 
-### 🏆 Github Trophies 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fasteroid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 Github Statistics 🏆
+</p>
+<p align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fasteroid&amp;show_icons=true&amp;theme=light&amp;card_width=50&amp;include_all_commits=true&amp;count_private=true&amp;hide_title=true&amp;hide_border=true&amp;bg_color=0000&amp;text_color=dddddd" alt="Overview">
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fasteroid&amp;langs_count=8&amp;layout=compact&amp;theme=light&amp;hide_border=true&amp;hide=golo&amp;bg_color=0000&amp;text_color=dddddd" alt="Languages">
 
+<img src="https://github-profile-trophy.vercel.app/?username=Fasteroid&theme=gitdimmed&no-bg=true&no-frame=true&">
+</p>
