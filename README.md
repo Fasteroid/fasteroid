@@ -7,11 +7,11 @@ My code isn't always the neatest, so brace yourself if you decide to look at an 
 <p>
 
   <a href="https://github.com/wiremod/wire/wiki/Expression-2">
-    <img src="https://raw.githubusercontent.com/Fasteroid/fasteroid/main/badges/e2-final.svg" alt="Expression 2" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/Fasteroid/fasteroid/main/badges/e2.svg" alt="Expression 2" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://www.lua.org/">
-    <img src="https://raw.githubusercontent.com/Fasteroid/fasteroid/main/badges/lua-final.svg" alt="Lua" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/Fasteroid/fasteroid/main/badges/lua.svg" alt="Lua" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="#">
