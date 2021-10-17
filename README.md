@@ -15,15 +15,15 @@ My code isn't always the neatest, so brace yourself if you decide to look at an 
   </a>
 
   <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg" alt="CSS" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/Fasteroid/fasteroid/main/badges/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
   </a>
   
   <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/Fasteroid/fasteroid/main/badges/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
   </a>
-  
+
   <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/Fasteroid/fasteroid/main/badges/css3.svg" alt="CSS" style="vertical-align:top; margin:4px">
   </a>
   
   <a href="https://nodejs.org">
