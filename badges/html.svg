@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="32" viewBox="0 0 100 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0f1418;
+      }
+
+      .cls-2 {
+        fill: #e44d26;
+      }
+
+      .cls-3 {
+        fill: #f16529;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="50" y1="34" x2="50" y2="2" gradientTransform="matrix(1, 0, 0, -1, 0, 34)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bbb" stop-opacity="0.1"/>
+      <stop offset="1" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <path class="cls-1" d="M95,0H31V32H95a5,5,0,0,0,5-5V5A5,5,0,0,0,95,0Z"/>
+    <path class="cls-2" d="M5,0A5,5,0,0,0,0,5V27a5,5,0,0,0,5,5H15.5V0Z"/>
+    <rect class="cls-2" x="15.5" width="15.5" height="32"/>
+    <rect class="cls-3" x="15.5" y="1" width="14.5" height="30"/>
+    <polygon class="cls-4" points="15.52 10.12 24.23 10.12 24.57 6.5 15.52 6.5 15.5 6.5 6.43 6.5 7.42 17.43 15.5 17.43 15.5 17.44 19.96 17.44 19.54 22.14 15.51 23.22 11.47 22.14 11.21 19.25 7.58 19.25 8.09 24.93 15.52 27 15.52 26.98 22.91 24.93 23.9 13.82 15.52 13.82 15.5 13.82 10.74 13.82 10.4 10.12 15.5 10.12 15.52 10.12"/>
+    <path class="cls-4" d="M53.57,22H51.2V17.72H46.85V22H44.48V11.5h2.37v4.19H51.2V11.5h2.37Zm10.49-8.58h-3V22H58.69V13.42h-3V11.5h8.35ZM78.15,22H75.81V15.72q0-1,.09-2.25h-.06a10.32,10.32,0,0,1-.33,1.39L73.05,22H71.12l-2.51-7.07c-.06-.19-.17-.68-.32-1.46h-.07c.06,1,.09,1.94.09,2.72V22H66.18V11.5h3.47l2.14,6.22a9.16,9.16,0,0,1,.38,1.5h0a13.72,13.72,0,0,1,.42-1.51l2.14-6.21h3.38Zm9.35,0H81.25V11.5h2.36v8.58H87.5Z"/>
+  </g>
+  <g id="Layer_2" data-name="Layer 2">
+    <path class="cls-5" d="M95,0H5A5,5,0,0,0,0,5V27a5,5,0,0,0,5,5H95a5,5,0,0,0,5-5V5A5,5,0,0,0,95,0Z"/>
+  </g>
+</svg>
