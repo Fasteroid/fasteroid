@@ -14,15 +14,15 @@ I'm constantly improving, but only as I go, so be aware that past projects may n
     <img src="https://raw.githubusercontent.com/Fasteroid/fasteroid/main/badges/lua.svg" alt="Lua" style="vertical-align:top; margin:4px">
   </a>
 
-  <a href="#">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference">
     <img src="https://raw.githubusercontent.com/Fasteroid/fasteroid/main/badges/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
   </a>
   
-  <a href="#">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference">
     <img src="https://raw.githubusercontent.com/Fasteroid/fasteroid/main/badges/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
   </a>
 
-  <a href="#">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference">
     <img src="https://raw.githubusercontent.com/Fasteroid/fasteroid/main/badges/css3.svg" alt="CSS" style="vertical-align:top; margin:4px">
   </a>
   
