@@ -49,7 +49,8 @@ My code isn't always the neatest, so brace yourself if you decide to look at an 
  - Audio Editing & Mixing!
  - 3D Modeling and Printing!
  - Video Games!
- - And More!
+ - Evil Scheming!
+ - AND MORE!
 
 ### 🏆 Github Statistics 🏆
 </p>
