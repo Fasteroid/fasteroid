@@ -1,7 +1,7 @@
 ## Greetings from parts unknown! 🌌
 
 Here you'll find basically anything and everything I've made and/or are planning to make.<br>
-My code isn't always the neatest, so brace yourself if you decide to look at an older project!<br>
+I'm constantly improving, but only as I go.  Past projects may not be up to my present standards.<br>
 
 ### 💡 Proud user of...
 <p>
