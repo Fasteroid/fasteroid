@@ -45,10 +45,10 @@ I'm constantly improving, but only as I go, so be aware that past projects may n
 </p>
 
 ### 🔨 On my spare time I also do...
- - Graphic Design!
+ - Video Games!
  - Audio Editing & Mixing!
  - 3D Modeling and Printing!
- - Video Games!
+ - Graphic Design!
  - Evil Scheming!
  - AND MORE!
 
