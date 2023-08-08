@@ -55,9 +55,11 @@ I'm constantly improving, but only as I go, so be aware that past projects may n
 ### 🏆 Github Statistics 🏆
 </p>
 <p align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=Fasteroid&amp;show_icons=true&amp;theme=light&amp;card_width=50&amp;include_all_commits=true&amp;count_private=true&amp;hide_title=true&amp;hide_border=true&amp;bg_color=0000&amp;text_color=dddddd" alt="Overview">
-
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Fasteroid&amp;show_icons=true&amp;theme=light&amp;card_width=50&amp;include_all_commits=true&amp;count_private=true&amp;hide_title=true&amp;hide_border=true&amp;bg_color=0000&amp;text_color=dddddd" alt="Overview">
+-->
+<!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fasteroid&amp;langs_count=8&amp;layout=compact&amp;theme=light&amp;hide_border=true&amp;hide=golo&amp;bg_color=0000&amp;text_color=dddddd" alt="Languages">
+-->
 
 <img src="https://github-profile-trophy.vercel.app/?username=Fasteroid&theme=gitdimmed&no-bg=true&no-frame=true&">
 </p>
