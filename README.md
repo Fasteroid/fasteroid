@@ -25,9 +25,17 @@ I'm constantly improving, but I never repeat myself, so note that past projects 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference">
     <img src="https://raw.githubusercontent.com/Fasteroid/fasteroid/main/badges/css3.svg" alt="CSS" style="vertical-align:top; margin:4px">
   </a>
+
+  <a href="https://sass-lang.com">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/sass.svg" alt="Java" style="vertical-align:top; margin:4px">
+  </a>
   
   <a href="https://nodejs.org">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg" alt="Node.js" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://angular.io/">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/angular.svg" alt="Angular" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://java.com/">
