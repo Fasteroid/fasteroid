@@ -1,7 +1,7 @@
 t## Greetings from parts unknown! 🌌
 
-Here you'll find basically anything and everything I've made and/or are planning to make.<br>
-I'm constantly improving, but I never repeat myself, so note that past projects may not be up to my present standards!<br>
+Here you will find all past and present projects!<br>
+Older projects may be less polished, please keep this in mind while browsing.
 
 ### 💡 Proud user of...
 <p>
