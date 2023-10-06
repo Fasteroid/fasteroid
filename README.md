@@ -1,4 +1,4 @@
-## Greetings from parts unknown! 🌌
+t## Greetings from parts unknown! 🌌
 
 Here you'll find basically anything and everything I've made and/or are planning to make.<br>
 I'm constantly improving, but I never repeat myself, so note that past projects may not be up to my present standards!<br>
@@ -17,6 +17,10 @@ I'm constantly improving, but I never repeat myself, so note that past projects 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference">
     <img src="https://raw.githubusercontent.com/Fasteroid/fasteroid/main/badges/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
   </a>
+
+  <a href="https://www.typescriptlang.org">
+    <img src="https://raw.githubusercontent.com/Fasteroid/fasteroid/main/badges/typescript.svg" alt="Typescript" style="vertical-align:top; margin:4px">
+  </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference">
     <img src="https://raw.githubusercontent.com/Fasteroid/fasteroid/main/badges/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
@@ -27,7 +31,7 @@ I'm constantly improving, but I never repeat myself, so note that past projects 
   </a>
 
   <a href="https://sass-lang.com">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/sass.svg" alt="Java" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/sass.svg" alt="SASS" style="vertical-align:top; margin:4px">
   </a>
   
   <a href="https://nodejs.org">
