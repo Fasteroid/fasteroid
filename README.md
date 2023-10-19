@@ -1,4 +1,4 @@
-t## Greetings from parts unknown! 🌌
+## Greetings from parts unknown! 🌌
 
 Here you will find all past and present projects!<br>
 Older projects may be less polished, please keep this in mind while browsing.
