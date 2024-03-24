@@ -46,6 +46,10 @@ Older projects may be less polished, please keep this in mind while browsing.
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top; margin:4px">
   </a>
 
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" alt="Java" style="vertical-align:top; margin:4px">
+  </a>
+
   (not Python because Python SUCKS!!!)  
 
 </p>
