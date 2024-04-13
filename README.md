@@ -58,8 +58,11 @@ Older projects may be less polished, please keep this in mind while browsing.
 <p>
   <a href="https://code.visualstudio.com/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://visualstudio.microsoft.com">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio.svg" alt="Visual Studio" style="vertical-align:top; margin:4px">
   </a><br>
-  (Yeah that's right, real developers ONLY use VSCode!)
+  (I really wish MS would have named these better for search engine reasons!!)
 </p>
 
 ### 🔨 On my spare time I also do...
