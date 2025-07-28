@@ -66,8 +66,7 @@ Older projects may be less polished, please keep this in mind while browsing.
  - 3D modeling, printing, and engineering!
  - Scuffed graphic design!
  - Occasional audio tomfoolery!
- - Ridiculous over-engineering of all things!
- - AND MORE!
+ - And ridiculous over-engineering of everything!
 
 ### 🏆 Github Statistics 🏆
 </p>
