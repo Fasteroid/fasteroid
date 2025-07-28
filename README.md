@@ -42,10 +42,6 @@ Older projects may be less polished, please keep this in mind while browsing.
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/angular.svg" alt="Angular" style="vertical-align:top; margin:4px">
   </a>
 
-  <a href="https://java.com/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top; margin:4px">
-  </a>
-
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" alt="Java" style="vertical-align:top; margin:4px">
   </a>
@@ -66,11 +62,11 @@ Older projects may be less polished, please keep this in mind while browsing.
 </p>
 
 ### 🔨 On my spare time I also do...
- - Video Games!
- - Audio Editing & Mixing!
- - 3D Modeling and Printing!
- - Graphic Design!
- - Evil Scheming!
+ - Video games!
+ - 3D modeling, printing, and engineering!
+ - Scuffed graphic design!
+ - Occasional audio tomfoolery!
+ - Ridiculous over-engineering of all things!
  - AND MORE!
 
 ### 🏆 Github Statistics 🏆
