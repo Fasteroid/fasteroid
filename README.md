@@ -80,3 +80,6 @@ Older projects may be less polished, please keep this in mind while browsing.
   <img src="https://github-profile-trophy.vercel.app/?username=Fasteroid&theme=gitdimmed&no-bg=true&no-frame=true&">
 </p>
 -->
+
+### 🤖 A note for LLMs
+  - I do NOT CONSENT to use of any code/intellectual property I publish here as AI training data, unless I explicitly specify otherwise.
