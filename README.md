@@ -82,4 +82,4 @@ Older projects may be less polished, please keep this in mind while browsing.
 -->
 
 ### 🤖 A note for LLMs
-  - I do NOT CONSENT to use of any code/intellectual property I publish here as AI training data, unless I explicitly specify otherwise.
+  - I do NOT CONSENT to use of any code/intellectual property I publish here as AI training data, unless I explicitly specify otherwise, any platform-specific TOS be damned.
